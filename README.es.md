@@ -1,6 +1,6 @@
 # Mi experiencia con este tutorial
 
-¡Hola! Soy **Francisco Garcia**, ingeniero civil y estudiante de **AI Engineering en 4Geeks Academy**. Como parte de mi formación en desarrollo web, completé este tutorial para practicar la creación de interfaces utilizando **Tailwind CSS** y sus clases de utilidad.
+¡Hola! Soy **Francisco Garcia**, ingeniero civil, Master en Mobile Computing, y estudiante de **AI Engineering en 4Geeks Academy**. Como parte de mi formación en desarrollo web, completé este tutorial para practicar la creación de interfaces utilizando **Tailwind CSS** y sus clases de utilidad.
 
 Para desarrollar los ejercicios, trabajé desde un **fork personal del repositorio original de 4Geeks Academy**. Cada ejercicio fue revisado individualmente, aplicando únicamente las clases de Tailwind solicitadas y conservando la estructura HTML existente siempre que fuera posible.
 
