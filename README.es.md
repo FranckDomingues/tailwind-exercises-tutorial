@@ -1,3 +1,21 @@
+# Mi experiencia con este tutorial
+
+¡Hola! Soy **Francisco Garcia**, ingeniero civil y estudiante de **AI Engineering en 4Geeks Academy**. Como parte de mi formación en desarrollo web, completé este tutorial para practicar la creación de interfaces utilizando **Tailwind CSS** y sus clases de utilidad.
+
+Para desarrollar los ejercicios, trabajé desde un **fork personal del repositorio original de 4Geeks Academy**. Cada ejercicio fue revisado individualmente, aplicando únicamente las clases de Tailwind solicitadas y conservando la estructura HTML existente siempre que fuera posible.
+
+Durante el proceso:
+
+- Incorporé Tailwind CSS mediante su CDN dentro de la etiqueta `<head>`.
+- Utilicé clases de utilidad para trabajar con colores, tamaños, espaciado, formularios, tablas, navegación, Flexbox y layouts responsivos.
+- Verifiqué el resultado y la estructura de cada ejercicio antes de guardarlo.
+- Creé un commit independiente para cada ejercicio.
+- Envié los cambios únicamente a mi repositorio personal, manteniendo el repositorio original de 4Geeks configurado como `upstream`.
+
+Este repositorio documenta mi progreso práctico y la forma en que fui aplicando los conceptos fundamentales de Tailwind CSS paso a paso.
+
+---
+
 <!-- hide -->
 # Tutorial de ejercicios Tailwind CSS en 4Geeks Academy
 
