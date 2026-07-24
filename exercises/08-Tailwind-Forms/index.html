@@ -7,8 +7,24 @@
 		<title>08 Tailwind Forms</title>
 	</head>
 	<body>
-		<div class="col-3 mx-auto my-5">
-			<!-- Add your code below this line -->
+		<div class="w-1/4 mx-auto my-10">
+			<form action="#" class="bg-gray-600 rounded p-8 text-white">
+				<h2 class="text-2xl mb-4 font-semibold">Please login</h2>
+				<div class="mb-3">
+					<label for="email" class="sr-only">Email Address</label>
+					<input id="email" name="email" type="email" class="w-full rounded px-3 py-2 text-black" placeholder="Email Address" />
+				</div>
+				<div class="mb-2">
+					<label for="password" class="sr-only">Password</label>
+					<input id="password" name="password" type="password" class="w-full rounded px-3 py-2 text-black" placeholder="Password" />
+				</div>
+
+				<label for="remember" class="flex items-center mb-3">
+					<input id="remember" name="remember" type="checkbox" />
+					<span class="ml-2">Remember me</span>
+				</label>
+				<button type="submit" class="bg-blue-600 w-full rounded text-white py-2 mt-3">Login</button>
+			</form>
 		</div>
 	</body>
 </html>
